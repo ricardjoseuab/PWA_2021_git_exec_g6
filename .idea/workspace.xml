@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71340bed-8ebd-4ab9-a873-9f86b53cc8ae" name="Changes" comment="26.10.21 - Flávio Silva" />
+    <list default="true" id="71340bed-8ebd-4ab9-a873-9f86b53cc8ae" name="Changes" comment="26.10.21 - Flávio Silva">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composicao.css" beforeDir="false" afterPath="$PROJECT_DIR$/composicao.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composicao.html" beforeDir="false" afterPath="$PROJECT_DIR$/composicao.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,8 @@
       <updated>1635186473660</updated>
       <workItem from="1635186476860" duration="144000" />
       <workItem from="1635241913439" duration="1046000" />
+      <workItem from="1635243225514" duration="44000" />
+      <workItem from="1635243341387" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="26.10.21 - Flávio Silva">
       <created>1635242885222</created>
@@ -60,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="26.10.21 - Flávio Silva" />
