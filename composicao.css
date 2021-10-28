@@ -1,1 +1,53 @@
  
+ html *
+ {
+    font-size: 20px;
+    font-family: Georgia;
+ } 
+ 
+ 
+ h1, h2 {
+ margin-top: 0%;
+ margin-bottom: 0%;
+ margin-left: -10px;
+ margin-right: 0%;
+ }
+ 
+ p {
+     line-height: 1.5em;
+ }
+ 
+ .base{
+     background-color: eeeeee;
+    
+     
+ }
+ 
+ .bloco1{
+     background-color: orange;
+     width: 200px;
+     margin-left:-650px;
+     
+     
+ }
+ 
+ .bloco2{
+     background-color: green;
+     width: 450px;
+     margin-top: -22px;
+     
+ }
+ 
+ .bloco3{
+     background-color: red ;
+     width: 300px;
+     float: right;
+     margin-top: -250px;
+     margin-left: 200px;
+     
+     
+     
+    
+     
+ }
+ 
